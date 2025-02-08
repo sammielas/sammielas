@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-I'm **Samson Lasode**, a **DevOps | Cloud Engineer** who transitioned from being a professional Track & Field Athlete. I’m passionate about **Automation** and leveraging the **Cloud** to build impactful solutions that solve global challenges. 
+I'm **Samson Lasode**, a **DevOps | Cloud Engineer**. I’m passionate about **Automation** and leveraging the **Cloud** to build impactful solutions that solve global challenges. 
 
 Feel free to connect with me and find out more about my journey here:
 
