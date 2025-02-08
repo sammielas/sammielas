@@ -17,6 +17,5 @@ Feel free to connect with me and find out more about my journey here:
 ## 📊 GitHub Stats
 
 ![Samson Lasode GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammielas&count_private=true&show_icons=true&include_all_commits=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammielas&hide=TeX&layout=compact&theme=radical)  
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=sammielas%2Fsammielas&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?sammielas%2Fsammielas)
+
