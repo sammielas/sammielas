@@ -2,7 +2,7 @@
 
 ### 📌 Pinned Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sammielas&repo=aTerraform-ECS-Deployment)](https://github.com/sammielas/Terraform-ECS-Deployment)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sammielas&repo=Terraform-ECS-Deployment)](https://github.com/sammielas/Terraform-ECS-Deployment)
 
 ---
 
