@@ -4,7 +4,7 @@ I'm **Samson Lasode**, a **DevOps | Cloud Engineer**. I’m passionate about **A
 
 Feel free to connect with me and find out more about my journey here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Samson%20Lasode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samsonlasode/)](https://www.linkedin.com/in/samsonlasode/) [![Gmail Badge](https://img.shields.io/badge/-samsonlasode@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samsonlasode@gmail.com)](mailto:samsonlasode@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Samson%20Lasode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samsonlasode/)](https://www.linkedin.com/in/samsonlasode/) [![Gmail Badge](https://img.shields.io/badge/-samflicks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samflicks@gmail.com)](mailto:samflicks@gmail.com)
 
 ---
 
